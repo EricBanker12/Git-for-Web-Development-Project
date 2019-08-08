@@ -14,8 +14,8 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
   - [x] Run your usual git commands for adding/commiting and pushing **Be sure to push to your branch!**
 - [x] Create a Pull-Request to submit your work
   - [x] Use your own student fork as the base (compare across forks, base-fork -> master).
-  - [ ] Add your PM as a reviewer on the Pull-Request
-- [ ] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+  - [x] Add your PM as a reviewer on the Pull-Request
+- [x] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## Part Two:
 Go back and follow the same steps for your [UI-III-Flexbox project](https://github.com/LambdaSchool/UI-III-Flexbox) and your [User Interface - Great Idea Project](https://github.com/LambdaSchool/User-Interface).
